@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>KENTHD8mg</title>
   
-  
+  <subtitle>skill geeker</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://KENTHD8mg.github.io/"/>
